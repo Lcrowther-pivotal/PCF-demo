@@ -4,6 +4,6 @@ applications:
   memory: 512M 
   instances: 1
   
-  host: pcfdemo-uat
+  host: pcfdemo-uat-test
   path: ./target/pcfdemo.war
   
