@@ -1,9 +1,9 @@
 ---
 applications:
-- name: pcfdemo
+- name: pcfdemo-qa
   memory: 512M 
   instances: 1
   
-  host: pcfdemo-uat-test
+  host: pcfdemo-uat-qa
   path: ./target/pcfdemo.war
   
