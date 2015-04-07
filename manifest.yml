@@ -6,4 +6,6 @@ applications:
   
   host: pcfdemo-uat-qa
   path: ./target/pcfdemo.war
+    services:
+    - RMQ-UAT
   
