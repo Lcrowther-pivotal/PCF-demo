@@ -1,6 +1,6 @@
 ---
 applications:
-- name: pcfdemo-qa-2
+- name: pcfdemo-qa-3
   memory: 512M 
   instances: 1
   
